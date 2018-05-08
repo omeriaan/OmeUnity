@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Counter.unity
     guid: 2800b72d6b780432e8d49491f2fa4617
+  - enabled: 1
+    path: Assets/Scenes/TapEffect.unity
+    guid: 1a39a3c0abf98465ca8d7a5573a43b08
   m_configObjects: {}
