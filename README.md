@@ -1,4 +1,2 @@
 # OmeUnity
-
-## Description
-UniRxの練習
+UniRxを触ってみる
